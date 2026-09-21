@@ -22,13 +22,10 @@
 
 ## Live Streamlit Dashboard
 
-Deploy this project via **[Streamlit Community Cloud](https://share.streamlit.io)**:
+Streamlit App:
+https://superstore-sales-profit-analytics-kz47lffxbtudfyffzbsbdt.streamlit.app/
 
-1. Go to https://share.streamlit.io
-2. Connect your GitHub account
-3. Select repository: `codedby-shreya/superstore-sales-profit-analytics`
-4. Set main file: `app.py`
-5. Click Deploy
+The project is deployed using Streamlit Community Cloud and can be accessed directly through the link above.
 
 ---
 
